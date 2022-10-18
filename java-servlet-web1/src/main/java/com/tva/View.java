@@ -107,7 +107,7 @@ public class View extends HttpServlet {
   <div class="main">
     <h2>The Walk</h2>
     <p>The walk from Monterosso to Riomaggiore will take you approximately two hours, give or take an hour depending on the weather conditions and your physical shape.</p>
-    <img src="img_5terre.jpg" style="width:100%">
+    <img src="https://cdn.baogiaothong.vn/upload/2-2022/images/2022-05-25/1-1653445668-308-width740height476.jpg" style="width:100%">
   </div>
 
   <div class="right">
